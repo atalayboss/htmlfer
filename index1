@@ -1,0 +1,19 @@
+<h1>Lorem ipsum </h1>
+
+<h2>Hakkımda</h2>
+<p>ipsum dolor sit amet consectetur adipisicing elit. Culpa, nisi temporibus. Sint alias quas velit harum non, veniam eligendi et iste dolorum aliquam voluptatem fuga. Dolorem nemo autem</p> 
+
+
+<h2>Sevdiğim Diziler</h2>
+<h3>Lorem ipsum dolor sit amet</h3>
+
+<p>Lorem ipsum dolor sit amet consectetur <a href="https://www.ferrari.com/en-TR/auto/car-range?utm_source=google&utm_medium=cpc&utm_campaign=2022_ferrari_search_new_upperfunnel_FEA&utm_content=FEA_TR_brandkeywords&utm_term=ferrari&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1175fCS__Wz9N7gfKyCH8yL4aIWqrt1duYa_TZYLjKKd7f8xoMv5hxxIaAmopEALw_wcB">adipisicing</a> elit. Quod laboriosam consequuntur hic dolor perferendis dolorem aliquid natus non ab, obcaecati atque nisi, blanditiis accusantium officia praesentium enim consequatur, odit eaque!</p>
+
+<h3>dolor sit amet</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa maxime deleniti fugit, voluptatum ipsam aperiam qui, ut unde est dignissimos, quas quam possimus rem laudantium nemo maiores rerum incidunt placeat!</p>
+<ul>
+    <li> Lorem.</li>
+    <li> Lorem.</li>
+   
+</ul>
+<img width="250" height="300" src="images/ferr.png" alt="Talip">
